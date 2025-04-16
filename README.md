@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# "Desafios do Analista de Qualidade de Software Hoje: Como Enfrentar a Era Digital"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este ebook explora os principais desafios enfrentados pelos Analistas de Qualidade de Software (QAs) na era digital. Abordaremos desde a pressão por velocidade
+e a constante evolução tecnológica, até a importância da comunicação eficaz e o gerenciamento de expectativas. Prepare-se para descobrir soluções práticas e dicas
+valiosas para se destacar nesta profissão essencial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+-   IA Generativa **[Deepseek](https://chat.deepseek.com/)** para roteirização;
+-   IA Generativa **[Gamma](https://gamma.app/)** para criar a arte visual do e-book;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Utilizei o "deepseek" para criar um teste atualizado com os desafios que os QAs de agora vão enfrentar nesta nova realidade, estruturar o conteúdo e refinar minhas ideias. Por outro lado,
+o "Gamma" foi usado para gerar imagens e cores para dar cor ao ebook. Para concluir.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O e-book apresenta com base nas informações atuais quais são os desafios dos novos QAs, resaltando tambem que tudo isso que demorario dias consigui fazer em 30 minutos com as IAs Genativas que podem ser ferramentas poderosa na educação e na disseminação do conhecimento.
 
-### Exemplos e Insigths
+[[LINK PARA O E-BOOK AQUI](https://docs.google.com/presentation/d/19N8ogJogSCBaL4UFhf14zgpI4LMO3OuH/edit?usp=sharing&ouid=100392283651561468613&rtpof=true&sd=true)]
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
