@@ -16,7 +16,7 @@ o "Gamma" foi usado para gerar imagens e cores para dar cor ao ebook. Para concl
 ## 🚀 Resultados
 O e-book apresenta com base nas informações atuais quais são os desafios dos novos QAs, resaltando tambem que tudo isso que demorario dias consigui fazer em 30 minutos com as IAs Genativas que podem ser ferramentas poderosa na educação e na disseminação do conhecimento.
 
-[[LINK PARA O E-BOOK AQUI]()](https://docs.google.com/presentation/d/19N8ogJogSCBaL4UFhf14zgpI4LMO3OuH/edit?slide=id.p1#slide=id.p1)
+[[LINK PARA O E-BOOK AQUI](https://docs.google.com/presentation/d/19N8ogJogSCBaL4UFhf14zgpI4LMO3OuH/edit?usp=sharing&ouid=100392283651561468613&rtpof=true&sd=true)]
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
